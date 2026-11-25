@@ -1,8 +1,8 @@
 # THE WORLD IN ONE DAY — Wednesday 25 November 2026
 
-[![make.fun bounty — news-image-20261125](https://make.fun/bounty/news-image-20261125)](https://make.fun/bounty/news-image-20261125)
-[![make.fun competition — Sum up 25 November's world news in one image](https://make.fun/bounty/news-image-20261125)](https://make.fun/bounty/news-image-20261125)
-[![make.fun — $100 prize, top 50 entries](https://make.fun/bounty/news-image-20261125)](https://make.fun/bounty/news-image-20261125)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/top234/news-image-20261125-entry/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/top234/news-image-20261125-entry/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 One 1024×1024 newspaper page summing up Wednesday 25 November 2026:
 35 stories, 5 regions, every one dated that day.
